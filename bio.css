@@ -1,0 +1,206 @@
+html
+{
+   font-size: 120%; 
+}
+body
+{
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color:aliceblue;
+    font-family: "Crimson Text", serif;
+    line-height: 1.5;
+}  
+h1, h2, h3 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+.titulo-principal {
+	text-align: center;
+    border-radius: 20px;
+    text-shadow: 2px 2px #000;
+	background-color:aquamarine;
+	color: #FFF;
+	padding: 25px;
+	border-bottom: 10px solid beige;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+main h1
+{
+        font-size: 60px;
+        background-color:deepskyblue;
+        color:aliceblue;
+        text-align: center;
+        font-family: "Arial";
+        padding: 20px;
+        border: aliceblue solid  10px ;
+        margin: 0px;
+        text-transform: uppercase;
+}
+
+main a{
+    color: aliceblue;
+}
+
+h2
+{
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20me;
+    clear: both;
+    
+ 
+}
+
+h3
+{
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: 
+    clear: both;
+ 
+}
+
+p
+{
+    text-align: justify;
+    margin: 20px 0;
+}
+
+.navegacao-site {
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 20px;
+    color: #F2FFFC;
+    padding: 20px;
+}
+
+.navegacao-site a {
+    color: inherit;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-transform: lowercase;
+}
+
+.navegacao-site h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.citacao-bio, .navegacao-site, .rodape-pagina {
+    padding: 20px;
+}
+blockquote
+{
+    background-color:beige;
+    border-radius: 70px;
+    padding: 16px;
+    border: aquamarine solid  10px ;
+    width: 250px;
+    margin: 0px:
+    box-sizing: border-box;
+    opacity: .5; 
+}
+.rodape-pagina {
+	background-color: #000;
+	color: #F2FFFC;
+	clear: both;
+}
+.container {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+.navegacao-site h1 {
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+strong 
+{ 
+    font-style: italic;
+    display: block;
+}
+em 
+{
+    font-style: italic;
+}
+aside 
+{
+    background-color:aqua;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    font-family: "open sans condesed", sans-serif;
+        
+}
+aside, img{
+    float: right;
+    width: 15%;
+}
+aside {
+    clear: right;
+    box-sizing: border-box;
+}
+main{
+    float: left;
+    width: 85%;
+    padding-bottom:80px; 
+}
+nav h1
+{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+nav a 
+{
+    color: darkred
+}
+.icones-sociais li
+{
+    display: inline-block;
+}
+
+footer{
+    clear: both;
+    background-color: black;
+    color: lavenderblush;
+    padding: 20px;        
+}
+
+.icones-sociais a 
+{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+.subtitulo-texto {
+	font-size: 25px;
+	clear: both;
+}
+.subtitulo-texto2{
+	font-size: 25px;
+	clear: both;
+    color: deepskyblue;
+}
+
+
+.icones-redes-sociais li {
+	display: inline-block;
+}
+
+.artigo {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 20px;
+}
+.github{
+    background-image: url(github.png);
+}
+.twitter{
+    background-image: url(twitter.png);
+}
+.facebook{
+    background-image: url(facebook.png);
+}
+.Maria{
+    float: right
+}
